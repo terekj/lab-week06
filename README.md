@@ -1,4 +1,4 @@
-# Lab Week 05 Wed/Thurs
+# Lab Week 06
 This will be the last lab of the quarter before the final project. You will get to work on it for both sections of week 6. You will be sending a 16x16 character sprite from the raspberry pi pico to your FPGA(over SPI) and display it through out the entire screen.
 
 ## Required Compoenents
